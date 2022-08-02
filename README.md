@@ -2,4 +2,4 @@
 Videos of demo projects i make
 
 
-![](peeked.mp4)
+![demo 1](peeked.mp4)
